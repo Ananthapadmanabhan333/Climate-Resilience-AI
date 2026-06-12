@@ -49,6 +49,4 @@ A multi-agent climate intelligence system designed to predict climate-related ri
 - [ ] Complete the Explanable AI (XAI) engine using SHAP/LIME
 - [ ] Deploy to Kubernetes
 
-## License
 
-MIT License
